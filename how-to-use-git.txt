@@ -1,0 +1,61 @@
+Mai jos il puteti gasi tradus si in limba Romana pentru clasa de programare. 
+
+
+What is Git? 
+
+The symbol of modern democracy in writting free software. 
+
+What we need to know about it? 
+$:git init #[initializes a brand new repo] 
+
+$:git clone #[copies the integrated stuff]
+
+$:git addd stage #[performs control and history permit
+
+$:git commit #[saves check]
+
+$:git status #[shows checkout]
+
+$:git branch #[shows what's wrong] 
+
+$:git merge #[let-s merge between your collegue and you]
+
+$:git pull #[let's update the project with what's online]
+
+$:git push #[your changes will be transfered to github so you don't change the event]
+
+Now let's think about the class 
+
+-demo preview of a well written class to explain a exam and how to do math and homework as well.
+by Me. 
+
+Tradus in limba Romana: 
+
+Ce este Git-ul? 
+
+Simbolul modern al democratiei in scrierea de cod pentru un modul de calcul. 
+
+Cateva lucruri simple ce trebuie sa stim despre el? 
+$:git init #[ne ajuta la initializarea unui nou concept]
+
+$:git clone #[clonarea ce ne ajuta sa reproducem procedural conceptul]
+
+$:git add stage #[creaza si performeaza controlul istoric al codului permis de SVN] 
+
+$:git commit #[salveaza ce a fost concluzionat procedural si corect gramatical in limbaj scriptic] 
+
+$:git status #[arata optiunea fisierelor ce au fost salvate pentru a fi adaugate pe serverul de Git] 
+
+$:git branch #[bratul pe care s-a marcat ajustari]
+
+$:git merge #[conferinta dintre tine si ea in a accepta diferenta codului] 
+
+$:git pull #[ultimile schimbare in proiectul tau] 
+
+$:git push #[schimbarile tale in a transfera codul catre autorul Github] 
+Acum vreau sa ne gandim si la Matematica
+- putem trage cu ochiul la o clasa pentru a explica examenul prin care sa facem si matematica cat si temele.
+
+Spineci S. Cosmin-Mugurel 
+
+

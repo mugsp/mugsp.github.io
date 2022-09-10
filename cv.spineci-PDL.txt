@@ -1,0 +1,92 @@
+|K:| [Keywords]: Training, Mentoring, Functional Programming, c-sharp
+|N:| [Name]: Spîneci Cosmin Mugure but i preffer Ted;
+|A:| [Europe]: Romania, Buzau, str. aleea insulei no. 9; 
+	Coordinates 39*23' 22*13'
+|P:| [Phone]: 004-073-487-624-6
+|S:| [Skype]: cosminsp;
+|E:| spineci@tenta.com; cosmi@usa.com
+|W:| drspineci.github.io;
+|M:| [civil status]: Divorced;
+|R:| [religion]: Catholic;
+|P:| email me if you need my asap no.
+|L:| linkedin.com/in/cosmin-mugurel-spineci-401808239;
+|S:| [Status.V2]: Working [Status.V1] Working 
+	on a robotic arm;
+|H:| [Hobby]: love cooking for the whole familly and walking 
+	the dogs;
+|W:| [won]: Tenta browser acquired by Avast on Tenta LLC staff;
+|G:| [git]: https://www.linkedin.com/in/cosmin-mugurel-spineci-061466194
+
+|P:| [professional summary]:
+---------------------
+ - Build by a phone line manager around the world
+   across multiple carriers;
+ - 14 years writing software in industry;
+ - Server-side/infrastructure backend engineering;
+ - SRE; i do care of operational ergonomics;
+  - Building new backend services, test and autiomations 
+  depending on needs; 
+  - Infrastructure and CI or CD with Lint
+  Previously: trading systems and android methodology
+  Oriented Web and mobile developer, analitycal oriented
+  with human networking skills. 
+  Also i post frequently on this pages poems and many 
+  more which i endeavour daily. Feel free to see at [under 
+  maintanence, check tomorrow];
+  All of this is copyright to myself;
+  I tooked a Stanford course a long time ago of java and 
+  never ended crafting android applications as you can 
+  see from my portofolio on github or related app links.
+|Ex [Experience]|:
+-----------
+  - Html 5 + Bootstrap + Python + Django + Storage 
+    functionalities as SQL Models and Migrations with
+    Mysql, PostgreSql, Sqlite, server management, NAS,
+    Data Services Hub,  engine, resort api's, .net, csharp, java, jenkins, netbeans, sqs, pubsq, swift, javascript; 
+  - Understanding of system design, data structures and algorithms; 
+  - Some android and github
+  - GIT, svn, repo;
+  - mobile websites also; working on my own lab;
+  - Websites using Html 5 flex technology;
+  - Back-end php api's which communicate to storage;
+|Ca [Carrier]|:
+--------
+  - may 2008 - present: 
+    - Respond to my clients portofolio need delivering 
+      feasible and effective solutions.
+    - Coordinating with other freelance members to create
+      Web and mobile websites;
+    - Ensuring apps are delivered under all kind of tests.
+    - Optimizing my work to be reused ensuring a flexible 
+      and agile use.
+    - Working at work inside teams.
+|Ed [Education]|:
+----------
+	Certifications & Degrees"
+ - 2022 - Data Science Professional : Inference and Modelling Certificate of Harvard University online  of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2022 - Harvard University : Data Science Productivity Tool of Harvard University online  of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;  
+ - 2022 - Harvard University : Data Analysis for Life Science XSeries Certificate of Harvard University online  of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2021 - Harvard University : Data Science Wrangling of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2021 - Harvard University : Data Science Capstone of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2021 - Harvard University : Data Science Probability of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2021 - Harvard University : Data Science Professional of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2021 - Harvard University : Data Science Linear Regression of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2021 - Harvard University : Data Science Machine Learning of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2021 - Harvard University : Data Science R Basics of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2021 - Harvard Web Programming with Python and JavaScript,  of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2021 - Harvard University : Data Science Visualization" of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2007 - One year in Transilvania University of Electrical 
+	Engineering and Computer Science in English;
+ - 2003 - 2004 One year Highschool of Mathematics and 
+	IT at Marghiloman, Buzau, Romania;
+ - 2004 - 2007 3 years Highschool of Mathematics and 
+	IT in M. Eminescu, Buzau, Romania;
+Goodbye for now, i am off to work.
+
+More about work
+  - I like to stay active I enjoy jogging in the surfing,
+    bike riding mountain bike and speed bikes too.
+
+|Cc [Civil case]|: In a divorce to get my dog.  
+            
+

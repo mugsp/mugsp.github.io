@@ -1,0 +1,7 @@
+
+Assuming you are using a live linux cd or Ubuntu 
+#first you should open up a terminal and install debootstrap.
+$:apt-get update && apt-get upgrade
+$:apt-get install debootstrap
+$:debootrap --arch ARCH stretch /the-root-of-the-partition/ http://ftp.us.debian.org/debian
+#That's all, simple as eating peanut butter 
