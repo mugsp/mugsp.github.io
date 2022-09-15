@@ -10,8 +10,7 @@
 |R:| [religion]: Catholic;
 |P:| email me if you need my asap no.
 |L:| linkedin.com/in/cosmin-mugurel-spineci-401808239;
-|S:| [Status.V2]: Working [Status.V1] Working 
-	on a robotic arm;
+|S:| [Status.V2]: Working [Status.V1] Working ;
 |H:| [Hobby]: love cooking for the whole familly and walking 
 	the dogs;
 |W:| [won]: Tenta browser acquired by Avast on Tenta LLC staff;
