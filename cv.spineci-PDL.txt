@@ -62,24 +62,25 @@
 |Ed [Education]|:
 ----------
 	Certifications & Degrees"
- - 2022 - Data Science Professional : Inference and Modelling Certificate of Harvard University online  of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
- - 2022 - Harvard University : Data Science Productivity Tool of Harvard University online  of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;  
- - 2022 - Harvard University : Data Analysis for Life Science XSeries Certificate of Harvard University online  of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
- - 2021 - Harvard University : Data Science Wrangling of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
- - 2021 - Harvard University : Data Science Capstone of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
- - 2021 - Harvard University : Data Science Probability of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
- - 2021 - Harvard University : Data Science Professional of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
- - 2021 - Harvard University : Data Science Linear Regression of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
- - 2021 - Harvard University : Data Science Machine Learning of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
- - 2021 - Harvard University : Data Science R Basics of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
- - 2021 - Harvard Web Programming with Python and JavaScript,  of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
- - 2021 - Harvard University : Data Science Visualization" of Harvard University online of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
+ - 2022 - Data Science Professional : Inference and Modelling Certificate of Harvard University online  of Massachusetts Hall, Cambridge USA  for product in IT;
+ - 2022 - Harvard University : Data Science Productivity Tool of Harvard University online  of Massachusetts Hall, Cambridge USA for product in IT;  
+ - 2022 - Harvard University : Data Analysis for Life Science XSeries Certificate of Harvard University online  of Massachusetts Hall, Cambridge USA for product in IT;
+ - 2021 - Harvard University : Data Science Wrangling of Harvard University online of Massachusetts Hall, Cambridge USA for product in IT;
+ - 2021 - Harvard University : Data Science Capstone of Harvard University online of Massachusetts Hall, Cambridge USA for product in IT;
+ - 2021 - Harvard University : Data Science Probability of Harvard University online of Massachusetts Hall, Cambridge USA for product in IT;
+ - 2021 - Harvard University : Data Science Professional of Harvard University online of Massachusetts Hall, Cambridge USA for product in IT;
+ - 2021 - Harvard University : Data Science Linear Regression of Harvard University online of Massachusetts Hall, Cambridge USA  for product in IT;
+ - 2021 - Harvard University : Data Science Machine Learning of Harvard University online of Massachusetts Hall, Cambridge USA for product in IT;
+ - 2021 - Harvard University : Data Science R Basics of Harvard University online of Massachusetts Hall, Cambridge USA  for product in IT;
+ - 2021 - Harvard Web Programming with Python and JavaScript,  of Harvard University online of Massachusetts Hall, Cambridge USA for a product;
+ - 2021 - Harvard University : Data Science Visualization" of Harvard University online of Massachusetts Hall, Cambridge USA  for a product;
  - 2007 - One year in Transilvania University of Electrical 
 	Engineering and Computer Science in English;
  - 2003 - 2004 One year Highschool of Mathematics and 
 	IT at Marghiloman, Buzau, Romania;
- - 2004 - 2007 3 years Highschool of Mathematics and 
-	IT in M. Eminescu, Buzau, Romania;
+- 2004 - 2007 3 years Highschool of Mathematics and 
+	IT in M. Eminescu, Buzau, Romania, 10 grades on IT and 8 on math at the exam;
+
 Goodbye for now, i am off to work.
 
 More about work
