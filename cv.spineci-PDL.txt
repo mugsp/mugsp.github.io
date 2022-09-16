@@ -2,7 +2,7 @@
 |N:| [Name]: Spîneci Cosmin Mugurel [Preffered M]
 |A:| [Europe]: Romania, Buzau, str. aleea insulei no. 9; 
 	Coordinates 39*23' 22*13'
-|P:| [Phone]: 004-073-487-624-6
+|P:| [Phone]: ask for asap
 |O:| [Office]: mugur@engineer.com
 |p:| [Personal]: mug@nycmail.com
 |W:| mugsp.github.io;
