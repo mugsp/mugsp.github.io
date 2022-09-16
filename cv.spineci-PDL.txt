@@ -13,7 +13,7 @@
 |S:| [Status.V2]: Working [Status.V1] Working ;
 |H:| [Hobby]: love cooking for the whole familly and walking 
 	the dogs;
-|W:| [won]: Tenta browser acquired by Avast on Tenta LLC staff;
+|W:| [won]: A browser acquired by a Giant us corporation.
 |L:| [social]: https://www.linkedin.com/in/cosmin-mugurel-spineci-061466194
 
 |P:| [professional summary]:
