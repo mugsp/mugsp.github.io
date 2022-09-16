@@ -21,6 +21,9 @@
  - Tried interaction with Scala but the cop camed;
  - Build by a phone line manager around the world
    across multiple carriers;
+ - Virtualization station vmware, quemu, virtualbox,
+   android osx for Phone and TV's, parallel Operating 
+   systems;
  - 14 years writing software in industry;
  - Server-side/infrastructure backend engineering;
  - SRE; i do care of operational ergonomics;
