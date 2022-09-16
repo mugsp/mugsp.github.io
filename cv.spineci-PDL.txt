@@ -13,7 +13,9 @@
 |S:| [Status.V2]: Working [Status.V1] Working ;
 |H:| [Hobby]: love cooking for the whole familly and walking 
 	the dogs;
-|W:| [won]: A browser acquired by a Giant us corporation.
+|W:| [won]: A browser acquired by a Giant us corporation. Proof of pay and 
+	ANAF Romania of Europe on EUID fiscal ID 38988487 of person Spineci 
+	S. Cosmin-Mugurel owner
 |L:| [social]: https://www.linkedin.com/in/cosmin-mugurel-spineci-061466194
 
 |P:| [professional summary]:
