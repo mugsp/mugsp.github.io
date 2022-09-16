@@ -1,4 +1,4 @@
-|K:| [Keywords]: Training, Mentoring, Functional Programming, c-sharp
+|K:| [Keywords]: Training, Mentoring, Functional Programming, 		c-sharp
 |N:| [Name]: Spîneci Cosmin Mugurel [Preffered M]
 |A:| [Europe]: Romania, Buzau, str. aleea insulei no. 9; 
 	Coordinates 39*23' 22*13'
@@ -13,9 +13,7 @@
 |S:| [Status.V2]: Working [Status.V1] Working ;
 |H:| [Hobby]: love cooking for the whole familly and walking 
 	the dogs;
-|W:| [won]: A browser acquired by a Giant us corporation. Proof of pay and 
-	ANAF Romania of Europe on EUID fiscal ID 38988487 of person Spineci 
-	S. Cosmin-Mugurel owner
+|W:| [won]: A browser acquired by a Giant us corporation. Proof of 	pay and ANAF Romania of Europe on EUID fiscal ID 38988487 of 	  person Spineci S. Cosmin-Mugurel owner
 |L:| [social]: https://www.linkedin.com/in/cosmin-mugurel-spineci-061466194
 
 |P:| [professional summary]:
@@ -93,6 +91,7 @@ More about work
   - I like to stay active I enjoy jogging in the surfing,
     bike riding mountain bike and speed bikes too.
 
-|Cc [Civil case]|: In a divorce to get my dog.  
-            
+|Cc [Civil case]|: In a divorce cause of Totalsoft S.A. .  
+            |Cc [Civil case]|: In a civil case cause of U.S. .  
+|CP |: In a penal cause of drink to go to the U.S. Embassy and file a owner file cause of the petition of Totalsoft S.A. my ex-brother under electric emission of U.K. . 
 
