@@ -41,9 +41,13 @@ Checkout below
 <div>
 	Started reading a Great book about "Jenkins" by John Ferguson Smart 
 </div>
+	 
+	 
 Check out more about me <a href="https://mugsp.github.io/cv.spineci-PDL.txt" > here</a>
   </div>
-
+<div>
+	Bought an apple pie and eating my cake with strawberries today 
+</div>
 <div> 
 A small diagram for my hun <a href="https://mugsp.github.io/output.pdf" > to read </a>
 </div>
