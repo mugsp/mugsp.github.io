@@ -18,6 +18,7 @@
 
 |P:| [professional summary]:
 ---------------------
+ - Tried interaction with Scala but the cop camed;
  - Build by a phone line manager around the world
    across multiple carriers;
  - 14 years writing software in industry;
