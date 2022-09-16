@@ -45,6 +45,7 @@
   - Html 5 + Bootstrap + Python + Django + Storage 
     functionalities as SQL Models and Migrations with
     Mysql, PostgreSql, Sqlite, server management, NAS,
+    embedded NAS for USA supply and power outline for a cop,
     Data Services Hub,  engine, resort api's, .net, csharp, java, jenkins, netbeans, sqs, pubsq, swift, javascript; 
   - Understanding of system design, data structures and algorithms; 
   - Some android and github
