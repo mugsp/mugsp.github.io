@@ -50,21 +50,6 @@ Bought a small diagram today and remained without money.
 	
 <div> 
 <p>
-	Did my room and promise to bee bad next time to bad.
+	Did my room.
 </p>
 </div>
-	i Am now sick of him he find out i am a tramp. I am sorry i will leave also after a fight with the prime minister of agriculture cause of dna 
-<div> 
-<p>
-	Fought and left dad.
-</p>
-<p>
-	I left home and forget the past. 
-</p>
-<p>
-	Fought with the past and resolve the aspect on me and now i am looking for a job in IT 
-</p>
-<p>
-	Fought with Cristi in the past as i left the Corporation and accused me of harrassement and almost went bankrupt and couldn t afford a loan. The other company harrased the court where is the justice with my new dad . 
-</p>
-	</div>
