@@ -61,21 +61,10 @@ Bought a small diagram today and remained without money.
 <p>
 	I left home and forget the past. 
 </p>
-	
 <p>
 	Fought with the past and resolve the aspect on me and now i am looking for a job in IT 
 </p>
-	
 <p>
-	Fought and left dad.
+	Fought with Cristi in the past as i left the Corporation and accused me of harrassement and almost went bankrupt and couldn t afford a loan. The other company harrased the court where is the justice with my new dad . 
 </p>
-	. 
 	</div>
-	
-	
-	
-	
-		
-	
-	
-	
