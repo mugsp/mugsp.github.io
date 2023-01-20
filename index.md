@@ -4,7 +4,7 @@
      <h1>More about my projects</h1>
         <p>This is me, Spineci Cosmin and this is my life and project</p>
 <p>
-I was born in Buzau, Romania, eastern Europe. 
+I was born in Buzau and i am in Bucharest right now East of Europe. this is a test. 
 </p>
 <p>
 I have failed at many things.
