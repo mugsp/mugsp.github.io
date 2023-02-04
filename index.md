@@ -55,3 +55,9 @@ Bought a small diagram today and remained without money.
 	Did my room.
 </p>
 </div>
+	 
+	 <div> 
+<p>
+	Involved in electronics in creating a nas micro server for IT and human interest.
+</p>
+</div>
