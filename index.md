@@ -365,3 +365,18 @@ Bought a small diagram today and remained without money.
 	Involved in electronics in creating a nas micro server for IT and human interest.
 </p>
 </div>
+		 
+	 <div> 
+<p>
+	Created a video conference for a small room for private vpn exchange of IT lines and business. 
+	t has various features:
+INTERNAL SERVER;
+- ON/OFF MIC OR VIDEO for optimal operation;
+- Chat type conversation;
+- Screen and video recording;
+- Support several conferences as well as teams;
+- It also works remotely if we are online;
+- It can be published or on security lines on the external IT network as in any corporation.
+	A good evening
+</p>
+</div>
