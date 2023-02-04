@@ -368,11 +368,12 @@ Bought a small diagram today and remained without money.
 		 
 	 <div> 
 <p>
+	-----------------------------------------------------------------
 	Created a video conference for a small room for private vpn exchange of IT lines and business. 
 	t has various features:
 	      <img src="2023_02_04_17.32.43.jpg" height="400" alt="">
 	      <img src="2023_02_04_17.29.47.jpg" height="400" alt="">
-
+----------------------------------------------------------------------------
 INTERNAL SERVER;
 - ON/OFF MIC OR VIDEO for optimal operation;
 - Chat type conversation;
@@ -380,7 +381,6 @@ INTERNAL SERVER;
 - Support several conferences as well as teams;
 - It also works remotely if we are online;
 - It can be published or on security lines on the external IT network as in any corporation.
-	A good evening
-	
+	A good evening.
 </p>
 </div>
