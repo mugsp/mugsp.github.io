@@ -14,7 +14,7 @@ I tried to become a football player. I always ended in defense.
 </p>
 <p>
 I discovered i loved computer science and computers, I am a PUB as in PUBLISHING not in human connection of some sort based on taps, not in be in a confussion with my friend the dog. Programming, data and intelligence. I love running, doing research for id without a scheduele so if you need help please give me a call. </p>
-<p>  Cosmyi: Programmer, STEM & Free Software Lawyer, Enlightened Agent, Transhumanist, Debian contributor </p>
+<p>  Cosmyi: Programmer, Free Software Lawyer, Enlightened Agent, Transhumanist, Debian contributor </p>
  <section id="about">
       <img src="trainee.jpg" height="400" alt="">
   Status 
@@ -35,6 +35,8 @@ Checkout below
 <div>
 	Started reading a Great book about "Jenkins" by John Ferguson Smart 
 </div> 
+<div> 
+
 Check out more about me <a href="https://mugsp.github.io/cv.spineci-PDL.txt" > here</a>
   </div>
 <div> 
