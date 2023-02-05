@@ -380,7 +380,7 @@ INTERNAL SERVER;
 - Screen and video recording;
 - Support several conferences as well as teams;
 - It also works remotely if we are online;
-- It can be published or on security lines on the external IT network as in any corporation.
+- It can be published or on security lines on the external IT network as in any corporation for United Kingdom refugees to talk about the consortium.
 	A good evening.
 </p>
 </div>
@@ -388,5 +388,13 @@ INTERNAL SERVER;
 	<div>
 		<p>
 		Looking to invest in a bachelors degree in Computer or Applied science with my father who is a attourney General of Romania at NATO.
+		Also after i tookeed the quiz to flee i seen i am still an engineer. 
+			"THE INNOVATOR
+
+The innovator develops new projects or products to solve specific issues.
+
+Innovators are curious and creative problem-solvers. Innovators are determined analytical thinkers who enjoy developing new methods, projects or products to solve specific issues. They are always up for a challenge and they enjoy doing things differently. Innovators apply their analytical and technical expertise to solve complex issues related to forced displacement.
+" as they wrote in the placement sign. 
+		
 		</p>
 	</div>
