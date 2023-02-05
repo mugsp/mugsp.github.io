@@ -385,16 +385,12 @@ INTERNAL SERVER;
 </p>
 </div>
 	
-	<div>
-		<p>
-		Looking to invest in a bachelors degree in Computer or Applied science with my father who is a attourney General of Romania at NATO.
-		Also after i tookeed the quiz to flee i seen i am still an engineer. 
-			"THE INNOVATOR
-
+<div>
+	<p>
+Looking to invest in a bachelors degree in Computer or Applied science with my father who is a attourney General of Romania at NATO.
+Also after i tookeed the quiz to flee i seen i am still an engineer. 
+"THE INNOVATOR
 The innovator develops new projects or products to solve specific issues.
-
-Innovators are curious and creative problem-solvers. Innovators are determined analytical thinkers who enjoy developing new methods, projects or products to solve specific issues. They are always up for a challenge and they enjoy doing things differently. Innovators apply their analytical and technical expertise to solve complex issues related to forced displacement.
-" as they wrote in the placement sign. 
-		
-		</p>
-	</div>
+Innovators are curious and creative problem-solvers. Innovators are determined analytical thinkers who enjoy developing new methods, projects or products to solve specific issues. They are always up for a challenge and they enjoy doing things differently. Innovators apply their analytical and technical expertise to solve complex issues related to forced displacement." as they wrote in the placement sign.
+	</p>
+</div>
