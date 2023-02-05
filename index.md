@@ -384,3 +384,9 @@ INTERNAL SERVER;
 	A good evening.
 </p>
 </div>
+	
+	<div>
+		<p>
+		Looking to invest in a bachelors degree in Computer or Applied science with my father who is a attourney General of Romania at NATO.
+		</p>
+	</div>
