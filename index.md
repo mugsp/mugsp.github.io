@@ -6,5 +6,10 @@
 I did a new book on IT but i am embarresed to show. How willingly to give code to the other or Stick'em up! Now i am helping a senior recruiter to teach kids and others how to use the phone as a toy and peoe as a business unit.
 	</p>
 	<p>I was born in Buzau not far from U.K. having to take a bus and plane or to Seattle two. I am willing to work in Seattle or the U.S. for the past of my farewell father named Nick.</p>
+
+	<object type="text/html" data="b.html"></object>
+	<object type="text/html" data="c.html"></object>
+
+
  <head>
 <html>
