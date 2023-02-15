@@ -403,3 +403,4 @@ The innovator develops new projects or products to solve specific issues.
 Innovators are curious and creative problem-solvers. Innovators are determined analytical thinkers who enjoy developing new methods, projects or products to solve specific issues. They are always up for a challenge and they enjoy doing things differently. Innovators apply their analytical and technical expertise to solve complex issues related to forced displacement." as they wrote in the placement sign.
 	</p>
 </div>
+This is Wednesday 15 of February and as i was to leave the house a watter pipe broke but i managed to get to school in class for wohoooo.
