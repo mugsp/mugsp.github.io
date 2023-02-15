@@ -13,6 +13,6 @@ I did a new book on IT but i am embarresed to show. How willingly to give code t
 	 <!--Inserting elements by M-->
 	
 	<object type="text/html" data="b.html"></object>
- 	<object type="text/html" data="c.html"></object>
+ 
  </body>
 <html>
