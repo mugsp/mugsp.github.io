@@ -16,8 +16,6 @@ to teach kids and others how to use the phone as a toy and phone as a business u
 	<p>I was born in Buzau not far from U.K. having to take a bus 
 and plane or to Seattle two. 
 I am willing to work in Seattle or the U.S. for the past of my farewell father named prick.</p>
-	<object type="text/html" data="a.html"></object>
-
  </head>
  <body> 
 	 <!--Inserting elements by M-->
