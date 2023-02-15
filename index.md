@@ -67,17 +67,16 @@ trucks on Europe</p>
 10-2019-present</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Tuition</b>:
 Programer Java</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Act</b>: PFA
-Spineci S. Cosmin-Mugurel Authorized Personnel of Irs Romania
-Persoana</p>
+<p style="margin-bottom: 0in; line-height: 100%"><b>Act</b>:
+Spineci S. Cosmin-Mugurel Authorized Person</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Client</b>:
 TravelSource LLC, California (USA) App for Sales for Automation
 research</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>:
 07/2017-10/2017</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Tuition</b>: PFA
-Spineci Cosmin-Mugurel Persoana Fizica Autorizata</p>
+<p style="margin-bottom: 0in; line-height: 100%"><b>Tuition</b>:
+Spineci Cosmin-Mugurel Persoana </p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Act</b>: Android
 Developer</p>
 <p style="margin-bottom: 0in; line-height: 100%">Client: 23sec,
@@ -102,8 +101,7 @@ Face</p>
 <p style="margin-bottom: 0in; line-height: 100%">definition and
 retrofit.</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>: 01/01
-/ 2016-01 / 07/2017</p>
+<p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>As long as it took</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Tuition</b>:
 Contract of labour;</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Act</b>: Software
@@ -111,7 +109,7 @@ Engineer helper;</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Client</b>:
 SoftVision S.A., Bucharest (Romania) A part of the internet
 provider(ISP) Farmers business</p>
-<p style="margin-bottom: 0in; line-height: 100%">network or independt
+<p style="margin-bottom: 0in; line-height: 100%">network or independent
 company of the United States of America, specific in farming.
 Migating code</p>
 <p style="margin-bottom: 0in; line-height: 100%">from another
@@ -122,10 +120,8 @@ brother.</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>:
 03/2015 until 11/2015</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Tuition</b>:
-Programmer according to the Fiscal Code of my brother</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Act of knowledge</b>:
-Spineci Cosmin-Mugurel IRS Person of EUID 31408701 of F10/238/2013
-and</p>
+Programmer according to the Fiscal Code </p>
+<p style="margin-bottom: 0in; line-height: 100%"><b>Act of knowledge</b></p>
 <p style="margin-bottom: 0in; line-height: 100%">further</p>
 <p style="margin-bottom: 0in; line-height: 100%">3</p>
 <p style="margin-bottom: 0in; line-height: 100%"><br/>
@@ -134,8 +130,7 @@ and</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Client</b>: SC
 Lemur Labs SRL, Bucharest (Romania)</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Form</b>: PFA
-Spineci Cosmin-Mugurel Authorized Physical Person Trainee</p>
+<p style="margin-bottom: 0in; line-height: 100%"><b>Form</b></p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Position</b>:
 Product manager - Android developer</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Employer</b>:
@@ -147,9 +142,7 @@ field for</p>
 <p style="margin-bottom: 0in; line-height: 100%">prototype and also a
 pick-up application and mobile phone resource for laundry companies.</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>: 01/09
-/ 2013-07 / 2014 Form: PFA Spineci Cosmin-Mugurel Authorized Physical
-Person</p>
+<p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>: As long as it takes according to the witness before the degree in IT</p>
 <p style="margin-bottom: 0in; line-height: 100%">Trainee</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Position</b>:
 Android Developer, Programmer Assistant</p>
@@ -165,9 +158,7 @@ for a new customized Mondo Taxi version:</p>
 <p style="margin-bottom: 0in; line-height: 100%">https://play.google.com/store/apps/details?
 id = com.mondotaxi.driver for www.conceptapps.ro</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>: 01/05
-/ 2013-01 / 10/2014 Form: PFA Spineci Cosmin-Mugurel Authorized
-Physical</p>
+<p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>: As long as it took</p>
 <p style="margin-bottom: 0in; line-height: 100%">Person Trainee
 Position: Android Developer, Programmer Helper Employer: GetLokal,
 Bucharest</p>
@@ -199,8 +190,7 @@ mobile-sfafront-office; Basically, it works as a full day-to-day mini
 ERP, with bluetooth printing capability for agents as well. invoice
 printing functionalities for the sale of vans in the store.</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>: 01/05
-/ 2011-01 and 09/2011</p>
+<p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>As long as it took.</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Position</b>:
 Junior / Android Developer, Assistant Programmer</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Form</b>:
@@ -234,8 +224,7 @@ Stanford-University Courses, Computer</p>
 <p style="margin-bottom: 0in; line-height: 100%">Science attending
 cs1068A Faculty of Informatics, Stanford University, California
 (United States)</p>
-<p style="margin-bottom: 0in; line-height: 100%">Stanford University,
-California (United States) 
+<p style="margin-bottom: 0in; line-height: 100%">Stanford University of California 
 </p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Education </b>2007:
 Certified data entry and processing course,</p>
@@ -318,7 +307,7 @@ webdeveloper, php; ✓ android java platform. ✓ Kotlin ✓ php ✓
 objective-c ✓ c sharp ✓ c asp.net ✓ c sharp ✓ c plus plus ✓
 pascal✓ fortran ✓ wolfram✓ vue js ✓ javascript ✓ c jquery<font color="#25044e"><font face="Open Sans, sans-serif"><br/>
 </font></font><br/>
-
+I will learn any new kind as long as it tooked.
 </p>
 </body>
 </html>
@@ -350,7 +339,7 @@ Checkout below
 </div> 
 <div> 
 
-Check out more about me <a href="https://mugsp.github.io/cv.spineci-PDL.txt" > here</a>
+Check out more about me <a href="https://mugsp.github.io/cv.spineci-PDL.txt" > I will always make my portofolio and reshape it to meet the U.K. standards of U.K. not Great Britain</a>
   </div>
 <div> 
 A small diagram for my hun <a href="https://mugsp.github.io/output.pdf" > to read </a>
@@ -365,7 +354,7 @@ Bought a small diagram today and remained without money.
 	
 <div> 
 <p>
-	Did my room.
+	I am in computer science too
 </p>
 </div>
 	 
