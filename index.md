@@ -48,16 +48,10 @@ ap. 58;</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Tuition</b>:
 Freelancing and research in IT for a U.S. 
 </p>
-<p style="margin-bottom: 0in; line-height: 100%">entrepreneur</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Act</b>: N/A</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Client</b>: home</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>:
 02-2021-05-2021</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Tuition</b>:
-Contract of labour;</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Act</b>: Software
-engineer;</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Client</b>:
 TSG-Euroshell SRL, for kopilot, a similar waze</p>
 <p style="margin-bottom: 0in; line-height: 100%">application just for
@@ -67,18 +61,12 @@ trucks on Europe</p>
 10-2019-present</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Tuition</b>:
 Programer Java</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Act</b>:
-Spineci S. Cosmin-Mugurel Authorized Person</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Client</b>:
 TravelSource LLC, California (USA) App for Sales for Automation
 research</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>:
 07/2017-10/2017</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Tuition</b>:
-Spineci Cosmin-Mugurel Persoana </p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Act</b>: Android
-Developer</p>
 <p style="margin-bottom: 0in; line-height: 100%">Client: 23sec,
 Bucharest (Romania) Developing a platform independent for gaming for
 android</p>
@@ -102,10 +90,6 @@ Face</p>
 retrofit.</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>As long as it took</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Tuition</b>:
-Contract of labour;</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Act</b>: Software
-Engineer helper;</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Client</b>:
 SoftVision S.A., Bucharest (Romania) A part of the internet
 provider(ISP) Farmers business</p>
@@ -119,8 +103,6 @@ brother.</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>:
 03/2015 until 11/2015</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Tuition</b>:
-Programmer according to the Fiscal Code </p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Act of knowledge</b></p>
 <p style="margin-bottom: 0in; line-height: 100%">further</p>
 <p style="margin-bottom: 0in; line-height: 100%">3</p>
@@ -131,8 +113,6 @@ Programmer according to the Fiscal Code </p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Client</b>: SC
 Lemur Labs SRL, Bucharest (Romania)</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Form</b></p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Position</b>:
-Product manager - Android developer</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Employer</b>:
 Start-up freelancing, Bucharest (Romania) Responsible for the
 creation of Android</p>
@@ -144,8 +124,6 @@ pick-up application and mobile phone resource for laundry companies.</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>: As long as it takes according to the witness before the degree in IT</p>
 <p style="margin-bottom: 0in; line-height: 100%">Trainee</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Position</b>:
-Android Developer, Programmer Assistant</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Employer</b>:
 ConceptApps, Bucharest (Romania) Involved in iOS and Android
 applications;</p>
@@ -175,8 +153,6 @@ predecessor to:</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>: 03
 /2012-01 / 09/2013</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Position</b>:
-Android Developer, Assistant Programmer</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Employer</b>:
 Totalsoft S.A. , Bucharest (Romania) Provider of Business to Business
 ERP programs.</p>
@@ -191,10 +167,8 @@ ERP, with bluetooth printing capability for agents as well. invoice
 printing functionalities for the sale of vans in the store.</p>
 <p style="margin-bottom: 0in; line-height: 100%">*</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Period</b>As long as it took.</p>
-<p style="margin-bottom: 0in; line-height: 100%"><b>Position</b>:
-Junior / Android Developer, Assistant Programmer</p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Form</b>:
-Individual employment contract Employer: Mobiweb SRL. Bucharest
+Mobiweb SRL. Bucharest
 (Romania) Medium</p>
 <p style="margin-bottom: 0in; line-height: 100%">company, provider of
 SMS solutions; Responsible for creating Android solutions for the
