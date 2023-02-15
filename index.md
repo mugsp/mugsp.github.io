@@ -5,8 +5,11 @@
 I work in Business Technology as a sidekick for computer parties in 
 U.K. and Seattle. My main role is doing business with you in U.K. o
 r to develop people at my office home town in Bucharest at the 
-National IT Center of the University or University of Dimitrie Cantemir</p> 
+National IT Center of the University or University of Dimitrie Cantemir
+</p> 
+I do research for Education Technology while studying to teach. I ike meeting new friends around the world technology and creating high tech gadgets. 
 	 <p>
+
 I did a new book on IT 
 but i am embarresed to show. 
 How willingly to give code to the other or Stick'em up!
