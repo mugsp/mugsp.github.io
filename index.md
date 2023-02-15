@@ -367,3 +367,4 @@ Innovators are curious and creative problem-solvers. Innovators are determined a
 	</p>
 </div>
 This is Wednesday 15 of February and as i was to leave the house a watter pipe broke but i managed to get to school in class for wohoooo.
+Today also i am very business and i have a business plan to discuss to a financial at the Meeting in the Capital of Romania Bucharest at one of the Largest Banks for a survey between fellow collegues of IT PROVIDERS. Wohoo
