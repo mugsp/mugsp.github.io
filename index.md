@@ -356,7 +356,6 @@ INTERNAL SERVER;
 	A good evening.
 </p>
 </div>
-	
 <div>
 	<p>
 Looking to invest in a bachelors degree in Computer or Applied science with my father who is a attourney General of Romania at NATO.
@@ -368,3 +367,8 @@ Innovators are curious and creative problem-solvers. Innovators are determined a
 </div>
 This is Wednesday 15 of February and as i was to leave the house a watter pipe broke but i managed to get to school in class for wohoooo.
 Today also i am very business and i have a business plan to discuss to a financial at the Meeting in the Capital of Romania Bucharest at one of the Largest Banks for a survey between fellow collegues of IT PROVIDERS. Wohoo
+
+On this week we will talk about a exam.
+
+
+
