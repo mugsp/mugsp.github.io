@@ -4,7 +4,7 @@
  
 	<p class="outro">About me <a href="a.html">Research and professional experience</a></p>
 	<p class="outro">About me <a href="a1.html">Honor and awards</a></p>
-	<p class="outro">About me <a href="a2.html">Books i read</a></p>
+	<p class="outro">About me <a href="a2.html">This is where i go</a></p>
 
 
  </head>
