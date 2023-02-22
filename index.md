@@ -5,6 +5,5 @@
  <object data="a1.html"></object>
  <object data="a2.html"></object>
  </head>
-
 </html>
 
