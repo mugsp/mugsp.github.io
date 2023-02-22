@@ -1,11 +1,12 @@
 <html>
  <head>
      <h1>More about my projects</h1>
+ 
+	<p class="outro">About me <a href="a.html">Research and professional experience</a></p>
+	<p class="outro">About me <a href="a1.html">Click here to leave.</a>
+	<p class="outro">About me <a href="a2.html">Books i read</a></p>
 
-<p class="outro">Goodbye, friend! <a href="a.html">About me</a></p>
-	<object data="a1.html"></object>
- 	<object data="a1.html"></object>
- 	<object data="a2.html"></object>
+
  </head>
 </html>
 
