@@ -1,6 +1,6 @@
 <html>
  <head>
-     <h1>More about my projects</h1>
+     <h1>About me</h1>
  
 	<p class="outro">I <a href="a.pdf">Research and professional experience of my last jobs</a></p>
 	<p class="outro">II <a href="a1.pdf">Honor and awards</a></p>
