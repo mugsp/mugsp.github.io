@@ -29,7 +29,11 @@ I am in it
 1st of 1st procedures
 	# in dist generate the build file 
 	# use the script json as suggested
-	# ,ush the code to git 
+	# ,ush the code to git by using 
+		git add theFile 
+		git commit and status message 
+		git push 
+		 
 	 please run npm run deploy 
 	please check your repo or github.com in our case by going to Settings > pages 
 	project should be deployed
