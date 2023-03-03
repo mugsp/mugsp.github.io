@@ -1,0 +1,46 @@
+Guest Fall 2019: Jacob und Wilhelm Grimm Zentrum research on practical law
+in Berlin Germany of Europe. Went to a gathering as a reunion at IT on the
+
+I helped dad and as i finish the room i spoke with my it engineer Cosmin 
+who helped me get a ticket to the ING Bank Conference in the Central Building 
+of the square where Gameloft used to be in Romania Bucharest. 
+
+I helped some more and found a spot to the Crypto Monday based on a essay i did
+several years ago on crypto currency and decoding the tickets i can tie up the event
+to my future proposal for Verona a small computer company i used to hock up now adays.
+
+I worked for cryptocurrency to help mom with the lot and a block chain event i used
+to go to cybernetics for food. 
+
+﻿This is a tutorial 
+How to install VueJS or Angular on your laptop and main repo
+
+I am in it 
+
+1st Install 
+	a. Git
+	b. Npm
+		b1. ,,gh.,ages
+		a1b2. modify this ridiculous json 
+		#open gedit and add this line 
+		home,age< ,http mugsp,github.iopmyre,
+	c. install angular cli 
+
+1st of 1st procedures
+	# in dist generate the build file 
+	# use the script json as suggested
+	# ,ush the code to git 
+	 please run npm run deploy 
+	please check your repo or github.com in our case by going to Settings > pages 
+	project should be deployed
+2nd. Build a automation script for our repo or hub 
+	# $1 install git && $1 install npm 
+	# cp script proj.dist
+	# git add , 
+	# git commit << .our first comment. 
+	# git push 
+	# n9m run deploy
+	# run the script by using repo,sh as first install 
+	# Visit Settings > pages on github 
+3rd Let,s start a website 
+	Look for index.md
