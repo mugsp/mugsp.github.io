@@ -20,32 +20,32 @@ I am in it
 1st Install 
 	a. Git
 	b. Npm
-		b1. ,,gh.,ages
+		b1. ,,gh.pages
 		a1b2. modify this ridiculous json 
 		#open gedit and add this line 
-		home,age< ,http mugsp,github.iopmyre,
+		homepage http mugsp,github.iopmyre,
 	c. install angular cli 
-
+		npm install "@angular/cli"
 1st of 1st procedures
 	# in dist generate the build file 
 	# use the script json as suggested
-	# ,ush the code to git by using 
+	# push the code to git by using 
 		git add theFile 
 		git commit and status message 
 		git push 
 		 
-	 please run npm run deploy 
+	please run npm run deploy 
 	please check your repo or github.com in our case by going to Settings > pages 
 	project should be deployed
 2nd. Build a automation script for our repo or hub 
 	# $1 install git && $1 install npm 
 	# cp script proj.dist
-	# git add , 
+	# git add .
 	# git commit << .our first comment. 
 	# git push 
-	# n9m run deploy
-	# run the script by using repo,sh as first install 
+	# npm run deploy
+	# run the script by using repo.sh as first install 
 	# Visit Settings > pages on github 
 3rd Let,s start a website 
 	Look for index.md
-Last modified on Fri Mar  3 12:00:17 EST 2023
+Last modified of Friday of March of it
