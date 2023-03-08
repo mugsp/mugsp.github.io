@@ -13,7 +13,8 @@
 	<p class="outro">VI <a href="quit.pdf">After i quit</a></p>	
 	
 
-	<p class="outro">XXII <a href="xdeck.pdf">About Irina me and the law</a></p>	
- </head>
+	<p class="outro">XXII <a href="chats.pdf">Invited chats</a></p>
+
+
 </html>
 
